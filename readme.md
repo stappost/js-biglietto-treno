@@ -15,7 +15,7 @@ PROBLEMA
     7 - arrotondare prezzo scontato a 2 cifre decimali
     8 - mostrare prezzo scontato
 5.b - ALTRIMENTI SE eta > 65 
-    9 - allora applicare sconto del 20%
+    9 - allora applicare sconto del 40%
     10 - arrotondare prezzo scontato a 2 cifre decimali
     11 - mostrare prezzo scontato
 5.c - ALTRIMENTI 
